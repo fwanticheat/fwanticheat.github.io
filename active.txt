@@ -1,2 +1,3 @@
 Статус: Активч
 FWSHAFTPVP1: 8775547 bytes
+FWSHAFTPVP2: 8775547 bytes
